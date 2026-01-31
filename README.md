@@ -13,5 +13,5 @@
 ## 其他样例
 ![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/8.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/9.png)  
-![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/10.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/11.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/10.png)  
