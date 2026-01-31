@@ -9,4 +9,9 @@
 ![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/5.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/6.png)  
 ![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/2.png)  
-本字体根据思源宋体改造，依据SIL Open Font License 1.1授权协议而免费公开，允许个人或企业自由传播、分享，免费商用；允许自由修改，修改后须以SIL Open Font License 1.1授权公开。
+本字体根据开源字体思源宋体和DM Serif Display改造，依据SIL Open Font License 1.1授权协议而免费公开，允许个人或企业自由传播、分享，免费商用；允许自由修改，修改后须以SIL Open Font License 1.1授权公开。
+## 其他样例
+![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/8.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/9.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/10.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-Duanzhuangsongti/blob/main/11.png)  
